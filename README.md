@@ -1,1 +1,1 @@
-# Drug_Target_Interaction_from_drug_molecular_fingerprint_and_protein---Classification
+# Drug_Target_Interaction_from_drug_molecular_fingerprint_and_protein---Classification (60/40)
